@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+<a href=https://harshsinghvi.com> Portfolio </a>
+[](blog.harshsinghvi.com)
 <!--
 **harshsinghvi/harshsinghvi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
