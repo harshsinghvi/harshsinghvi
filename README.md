@@ -1,6 +1,9 @@
 ### Hi there 👋
-<a href=https://harshsinghvi.com> Portfolio </a>
-[Blog](blog.harshsinghvi.com)
+[Website](https://harshsinghvi.com) || 
+[Blog](https://blog.harshsinghvi.com)
+I am a student, consultant, and recruiter currently living in India. My interests range from technology to programming. I am also interested in web development, Cyber Security, and entrepreneurship.
+
+You can click the button above to visit my company website. If you’d like to get in touch, feel free to say hello through any of the social links below.
 <!--
 **harshsinghvi/harshsinghvi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
