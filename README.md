@@ -7,7 +7,10 @@
 
 I am a student, consultant, and recruiter currently living in India. My interests range from technology to programming. I am also interested in web development, Cyber Security, and entrepreneurship.
 You can click the button above to visit my company website. If you’d like to get in touch, feel free to say hello through any of the social links below.
+
 [![Tweeting](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://harshsinghvi.com/twitter)
+[![Discord](https://img.shields.io/discord/591914197219016707.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.com/invite/HkJNxES)
+[![Twitter Follow](https://img.shields.io/twitter/follow/bstevensondev.svg?style=social)](https://twitter.com/harshsinghvi29)  
 
 
 <!--
