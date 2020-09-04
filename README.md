@@ -10,8 +10,11 @@ You can click the button above to visit my company website. If you’d like to g
 
 [![Tweeting](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://harshsinghvi.com/twitter)
 [![Discord](https://img.shields.io/discord/591914197219016707.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.com/invite/HkJNxES)
-[![Twitter Follow](https://img.shields.io/twitter/follow/harshsinghvi29.svg?style=social)](https://twitter.com/harshsinghvi29)  
 
+<!--
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/harshsinghvi29.svg?style=social)](https://twitter.com/harshsinghvi29)  
+-->
 
 <!--
 **harshsinghvi/harshsinghvi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
