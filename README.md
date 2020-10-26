@@ -4,7 +4,8 @@
 
 
 I am a student, consultant, and recruiter currently living in India. My interests range from technology to programming. I am also interested in web development, Cyber Security, and entrepreneurship.
-You can click the button above to visit my company website. If you’d like to get in touch, feel free to say hello through any of the social links below.
+
+You can click the button above to visit my website. If you’d like to get in touch, feel free to say hello through any of the social links below.
 
 [Markdown Cheat Sheet](https://github.com/harshsinghvi/harshsinghvi/blob/master/sample.md)
 
