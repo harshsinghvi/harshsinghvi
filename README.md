@@ -12,6 +12,9 @@ You can click the button above to visit my website. If you’d like to get in to
 [![Tweeting](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://harshsinghvi.com/twitter)
 [![Discord](https://img.shields.io/discord/591914197219016707.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.com/invite/HkJNxES)
 
+[![alt text][1.1]][1]
+[![alt text][2.1]][2]
+[![alt text][3.1]][3]
 
 [1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
 [2.1]: http://i.imgur.com/P3YfQoD.png (facebook icon with padding)
