@@ -29,7 +29,7 @@ You can click the button above to visit my website. If you’d like to get in to
 
 [![Harsh's github stats](https://github-readme-stats.vercel.app/api?username=harshsinghvi&theme=algolia&count_private=true&show_icons=true)](https://github.com/harshsinghvi)
 
-[![Readme Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=harshsinghvi&theme=algolia&count_private=true&show_icons=true](https://github.com/harshsinghvi)
+[![Readme Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=harshsinghvi&theme=algolia](https://github.com/harshsinghvi)
 
 
 <!--
