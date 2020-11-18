@@ -18,6 +18,7 @@ You can click the button above to visit my website. If you’d like to get in to
 -->
 
 [![Harsh's github stats](https://github-readme-stats.vercel.app/api?username=harshsinghvi&theme=blue-green)](https://github.com/harshsinghvi)
+
 [![Readme Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=harshsinghvi&theme=blue-green)](https://github.com/harshsinghvi)
 
 <!--
