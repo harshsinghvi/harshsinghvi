@@ -12,14 +12,18 @@ You can click the button above to visit my website. If you’d like to get in to
 [![Tweeting](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://harshsinghvi.com/twitter)
 [![Discord](https://img.shields.io/discord/591914197219016707.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.com/invite/HkJNxES)
 
-<!--
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/harshsinghvi29.svg?style=social)](https://twitter.com/harshsinghvi29)  
--->
+[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
+[2.1]: http://i.imgur.com/P3YfQoD.png (facebook icon with padding)
+[3.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
 
 [![Harsh's github stats](https://github-readme-stats.vercel.app/api?username=harshsinghvi&theme=blue-green)](https://github.com/harshsinghvi)
 
 [![Readme Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=harshsinghvi&theme=blue-green)](https://github.com/harshsinghvi)
+
+[1]: http://www.twitter.com/harshsinghvi29
+[2]: http://www.facebook.com/insomniaccoderharsh
+[3]: http://www.github.com/harshsinghvi
 
 <!--
 **harshsinghvi/harshsinghvi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
