@@ -31,7 +31,9 @@ You can click the button above to visit my website. If you’d like to get in to
 <!-- [![Readme Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=harshsinghvi&theme=blue-green&count_private=true&show_icons=true)](https://github.com/harshsinghvi) -->
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=harshsinghvi&repo=UniversalGPIO&show_owner=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=harshsinghvi&repo=queapi&show_owner=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=harshsinghvi&repo=stackapi&show_owner=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
