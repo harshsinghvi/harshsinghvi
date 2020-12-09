@@ -1,7 +1,6 @@
-## Hi there 👋
-[Website](https://harshsinghvi.com) || 
-[Blog](https://blog.harshsinghvi.com)
+## Hi there it's [Harsh Singhvi](https://harshsinghvi.com)👋
 
+[Website](https://harshsinghvi.com) || [Blog](https://blog.harshsinghvi.com)
 
 I am a student, consultant, and recruiter currently living in India. My interests range from technology to programming. I am also interested in web development, Cyber Security, and entrepreneurship.
 
@@ -29,8 +28,11 @@ You can click the button above to visit my website. If you’d like to get in to
 
 [![Harsh's github stats](https://github-readme-stats.vercel.app/api?username=harshsinghvi&theme=blue-green&count_private=true&show_icons=true)](https://github.com/harshsinghvi)
 
-[![Readme Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=harshsinghvi&theme=blue-green&count_private=true&show_icons=true)](https://github.com/harshsinghvi)
+<!-- [![Readme Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=harshsinghvi&theme=blue-green&count_private=true&show_icons=true)](https://github.com/harshsinghvi) -->
 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=harshsinghvi&repo=UniversalGPIO&show_owner=true&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=harshsinghvi&repo=queapi&show_owner=true&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=harshsinghvi&repo=stackapi&show_owner=true&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **harshsinghvi/harshsinghvi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
