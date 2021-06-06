@@ -15,6 +15,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [C Programing File](https://blog.harshsinghvi.com/c-programing-file/)
+- [Is Docker a tool for Hackers ?](https://blog.harshsinghvi.com/docker-as-tool-for-cybersecyrity-2/)
+- [Is Cloud a Tool For Hackers ?](https://blog.harshsinghvi.com/is-cloud-a-tool-for-hackers/)
+- [My first Blog](https://blog.harshsinghvi.com/my-first-blog/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
