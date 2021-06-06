@@ -1,52 +1,93 @@
-## Hi there it's [Harsh Singhvi](https://harshsinghvi.com)👋
+<h1 align="center">Hi 👋, I'm Harsh</h1>
+<h3 align="center">A passionate Software developer from India.</h3>
 
-[Website](https://harshsinghvi.com) || [Blog](https://blog.harshsinghvi.com)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=harshsinghvi&label=Profile%20views&color=0e75b6&style=flat" alt="harshsinghvi" /> </p>
 
-I am a student, consultant, and recruiter currently living in India. My interests range from technology to programming. I am also interested in web development, Cyber Security, and entrepreneurship.
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshsinghvi" alt="harshsinghvi" /></a> </p>
 
-You can click the button above to visit my website. If you’d like to get in touch, feel free to say hello through any of the social links below.
+<p align="left"> <a href="https://twitter.com/harshsinghvi29" target="blank"><img src="https://img.shields.io/twitter/follow/harshsinghvi29?logo=twitter&style=for-the-badge" alt="harshsinghvi29" /></a> </p>
 
-[Markdown Cheat Sheet](https://github.com/harshsinghvi/harshsinghvi/blob/master/sample.md)
+- 📝 I regularly write articles on [https://blog.harshsinghvi.com](https://blog.harshsinghvi.com)
 
-[![Tweeting](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://harshsinghvi.com/twitter)
-[![Discord](https://img.shields.io/discord/591914197219016707.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.com/invite/HkJNxES)
+- 📫 How to reach me **root@harshsinghvi.com**
 
-[![Twitter][1.1]][1]
-[![Facebook][2.1]][2]
-[![Github][3.1]][3]
-[![LinkedIn][4.1]][4]
+- 📄 Know about my experiences [https://harshsinghvi.com](https://harshsinghvi.com)
 
-[1.1]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[2.1]: http://i.imgur.com/fep1WsG.png (facebook icon without padding)
-[3.1]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
-[4.1]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
-[1]: http://www.twitter.com/harshsinghvi29
-[2]: http://www.facebook.com/insomniaccoderharsh
-[3]: http://www.github.com/harshsinghvi
-[4]: https://www.linkedin.com/in/harsh-singhvi/
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/harshsinghvi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="harshsinghvi" height="30" width="40" /></a>
+<a href="https://twitter.com/harshsinghvi29" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="harshsinghvi29" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/harsh-singhvi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harsh-singhvi" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/9886971" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="9886971" height="30" width="40" /></a>
+<a href="https://instagram.com/insomniac_coder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="insomniac_coder" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/harsh singhvi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="harsh singhvi" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/insomniac_codr" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="insomniac_codr" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/insomniac_coder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="insomniac_coder" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/insomniac_coder" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="insomniac_coder" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/insomniac_coder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="insomniac_coder" height="30" width="40" /></a>
+<a href="https://discord.gg/HkJNxES" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="HkJNxES" height="30" width="40" /></a>
 
-[![Harsh's github stats](https://github-readme-stats.vercel.app/api?username=harshsinghvi&theme=gradient&count_private=true&show_icons=true&layout=compact&include_all_commits=true)](https://github.com/harshsinghvi)
+<a href="/https://blog.harshsinghvi.com/feed.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://blog.harshsinghvi.com/feed.xml" height="30" width="40" /></a>
+</p>
 
-<!-- [![Readme Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=harshsinghvi&theme=blue-green&count_private=true&show_icons=true)](https://github.com/harshsinghvi) -->
+<h3 align="left">Programming Languages</h3>
+<p align="left">
+<a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
+<a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
+<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+<a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
+</p>
 
+<h3 align="left">Frontend Development</h3>
+<p align="left"> 
+<a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
+ <a href="https://gohugo.io/" target="_blank"> <img src="https://api.iconify.design/logos-hugo.svg" alt="hugo" width="40" height="40"/> </a>
+<a href="https://jekyllrb.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" alt="jekyll" width="40" height="40"/> </a>
+</p>
+</p>
+
+<h3 align="left">Backend Development</h3>
+<p align="left"> 
+<a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
+<a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
+<a href="https://www.nginx.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> 
+<a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
+<a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a>
+</p>
+
+<h3 align="left">Devops</h3>
+<p align="left">
+<a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
+<a href="https://azure.microsoft.com/en-in/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> 
+<a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> 
+<a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
+<a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
+<a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> 
+<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+<a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> 
+</p>
+
+<h3 align="left">Software</h3><p align="left"> 
+<a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
+<a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
+</p>
+
+<!-- <h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/insomniac_coder"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="insomniac_coder" /></a></p>
+<br><br> -->
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshsinghvi&show_icons=true&locale=en&layout=compact" alt="harshsinghvi" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harshsinghvi&show_icons=true&locale=en&theme=dark" alt="harshsinghvi" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshsinghvi&" alt="harshsinghvi" /></p>
+
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=harshsinghvi&repo=texam&show_owner=true&theme=dark)](https://github.com/harshsinghvi/texam)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=harshsinghvi&repo=UniversalGPIO&show_owner=true&theme=dark)](https://github.com/harshsinghvi/UniversalGPIO)
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=harshsinghvi&repo=queapi&show_owner=true&theme=dark)](https://github.com/harshsinghvi/queapi)
-
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=harshsinghvi&repo=stackapi&show_owner=true&theme=dark)](https://github.com/harshsinghvi/stackapi)
-
-<!--
-**harshsinghvi/harshsinghvi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
