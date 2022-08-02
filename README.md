@@ -1,3 +1,5 @@
+![header](https://media-exp1.licdn.com/dms/image/C4D16AQEI63p5Kyh9Bw/profile-displaybackgroundimage-shrink_350_1400/0/1659470420444?e=1665014400&v=beta&t=Q3SXOTV_3SX7564UFEvrvyfOp5AwVSGbR5YSQFDfLmY)
+
 <h1 align="center">Hi 👋, I'm Harsh</h1>
 <h3 align="center">A passionate Software developer from India.</h3>
 
