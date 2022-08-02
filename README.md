@@ -1,8 +1,5 @@
 ![header](https://media-exp1.licdn.com/dms/image/C4D16AQEI63p5Kyh9Bw/profile-displaybackgroundimage-shrink_350_1400/0/1659470420444?e=1665014400&v=beta&t=Q3SXOTV_3SX7564UFEvrvyfOp5AwVSGbR5YSQFDfLmY)
 
-<h1 align="center">Hi 👋, I'm Harsh</h1>
-<h3 align="center">A passionate Software developer from India.</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshsinghvi&label=Profile%20views&color=0e75b6&style=flat" alt="harshsinghvi" /> 
 <a href='https://discord.com/invite/HkJNxES'>  <img src="https://img.shields.io/discord/591914197219016707.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2" alt="harshsinghvi" /> </a> </p>
 
